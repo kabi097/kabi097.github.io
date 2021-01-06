@@ -5,10 +5,6 @@
     <link>https://kabi097.github.io/</link>
     <description>Recent content on Paweł Wiczyński - programista, webdeveloper (PHP, JS, Linux)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-PL</language>
-    
-	<atom:link href="https://kabi097.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>pl-PL</language><atom:link href="https://kabi097.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
